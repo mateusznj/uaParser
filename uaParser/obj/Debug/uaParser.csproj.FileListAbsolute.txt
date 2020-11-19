@@ -1,0 +1,8 @@
+c:\users\mateusz.nostitz\documents\visual studio 2015\Projects\uaParser\uaParser\bin\Debug\uaParser.exe.config
+c:\users\mateusz.nostitz\documents\visual studio 2015\Projects\uaParser\uaParser\bin\Debug\uaParser.exe
+c:\users\mateusz.nostitz\documents\visual studio 2015\Projects\uaParser\uaParser\bin\Debug\uaParser.pdb
+c:\users\mateusz.nostitz\documents\visual studio 2015\Projects\uaParser\uaParser\bin\Debug\UAParser.dll
+c:\users\mateusz.nostitz\documents\visual studio 2015\Projects\uaParser\uaParser\bin\Debug\UAParser.xml
+c:\users\mateusz.nostitz\documents\visual studio 2015\Projects\uaParser\uaParser\obj\Debug\uaParser.csprojResolveAssemblyReference.cache
+c:\users\mateusz.nostitz\documents\visual studio 2015\Projects\uaParser\uaParser\obj\Debug\uaParser.exe
+c:\users\mateusz.nostitz\documents\visual studio 2015\Projects\uaParser\uaParser\obj\Debug\uaParser.pdb
